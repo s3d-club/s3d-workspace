@@ -1,0 +1,39 @@
+[submodule "tutorial"]
+	path = github.com/s3d-club/s3d-website
+	url = https://github.com/s3d-group/s3d-tutorial.git
+[submodule "terraform-modules"]
+	path = terraform-modules
+	url = https://github.com/s3d-group/s3d-terraform-modules.git
+[submodule "go/s3d-cli"]
+	path = github.com/s3d-club/s3d-cli
+	url = https://github.com/s3d-group/s3d-cli.git
+[submodule "github.com/s3d-group/terraform-aws-cloudfront"]
+	path = github.com/s3d-club/terraform-aws-site
+	url = https://github.com/s3d-group/terraform-aws-cloudfront.git
+[submodule "github.com/s3d-group/terraform-aws-ec2_dev_instance"]
+	path = github.com/s3d-club/terraform-aws-ec2
+	url = https://github.com/s3d-group/terraform-aws-ec2_dev_instance.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted"]
+	path = github.com/s3d-club/terraform-aws-sg_egress_open
+	url = https://github.com/s3d-group/terraform-aws-sg-for-egress-unrestricted.git
+[submodule "github.com/s3d-group/terraform-aws-sg-for-ssh"]
+	path = github.com/s3d-group/terraform-aws-sg_egress_open/terraform-aws-sg-for-ssh
+	url = https://github.com/s3d-group/terraform-aws-sg-for-ssh.git
+[submodule "github.com/s3d-group/s3d-aws-account"]
+	path = github.com/s3d-club/s3d-aws-account
+	url = https://github.com/s3d-group/s3d-aws-account.git
+[submodule "github.com/s3d-group/s3d-scripts"]
+	path = github.com/s3d-club/s3d-scripts
+	url = https://github.com/s3d-group/s3d-scripts.git
+[submodule "github.com/s3d-group/terraform-external-changelog-version"]
+	path = github.com/s3d-club/terraform-external-changelog
+	url = https://github.com/s3d-group/terraform-external-changelog-version.git
+[submodule "github.com/s3d-group/s3d-tutorial-start"]
+	path = github.com/s3d-club/s3d-tutorial-start
+	url = https://github.com/s3d-group/s3d-tutorial-start.git
+[submodule "github.com/s3d-group/terraform-aws-acm"]
+	path = github.com/s3d-club/terraform-aws-acm
+	url = https://github.com/s3d-club/terraform-aws-acm.git
+[submodule "github.com/s3d-group/terraform-aws-sg_ingress_ssh"]
+	path = github.com/s3d-club/terraform-aws-sg_ingress_ssh
+	url = https://github.com/s3d-club/terraform-aws-sg_ingress_ssh.git
