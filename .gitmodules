@@ -1,0 +1,54 @@
+[submodule "s3d-py-fast-api-site-manager"]
+	path = s3d-py-fast-api-site-manager
+	url = https://github.com/s3d-club/s3d-py-fast-api-site-manager
+[submodule "aws-account"]
+	path = aws-account
+	url = https://github.com/s3d-club/s3d-aws-account
+[submodule "cli"]
+	path = cli
+	url = https://github.com/s3d-club/s3d-cli
+[submodule "dev-setup"]
+	path = dev-setup
+	url = https://github.com/s3d-club/s3d-dev-setup
+[submodule "py-fast-api-site-manager"]
+	path = py-fast-api-site-manager
+	url = https://github.com/s3d-club/s3d-py-fast-api-site-manager
+[submodule "rest-api-site-manager"]
+	path = rest-api-site-manager
+	url = https://github.com/s3d-club/s3d-rest-api-site-manager
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/s3d-club/s3d-scripts
+[submodule "tutorial-start"]
+	path = tutorial-start
+	url = https://github.com/s3d-club/s3d-tutorial-start
+[submodule "website"]
+	path = website
+	url = https://github.com/s3d-club/s3d-website
+[submodule "terraform-aws-acm"]
+	path = terraform-aws-acm
+	url = https://github.com/s3d-club/terraform-aws-acm
+[submodule "terraform-aws-apigateway"]
+	path = terraform-aws-apigateway
+	url = https://github.com/s3d-club/terraform-aws-apigateway
+[submodule "terraform-aws-ec2"]
+	path = terraform-aws-ec2
+	url = https://github.com/s3d-club/terraform-aws-ec2
+[submodule "terraform-aws-eks"]
+	path = terraform-aws-eks
+	url = https://github.com/s3d-club/terraform-aws-eks
+[submodule "terraform-aws-sg_egress_open"]
+	path = terraform-aws-sg_egress_open
+	url = https://github.com/s3d-club/terraform-aws-sg_egress_open
+[submodule "terraform-aws-sg_ingress_ssh"]
+	path = terraform-aws-sg_ingress_ssh
+	url = https://github.com/s3d-club/terraform-aws-sg_ingress_ssh
+[submodule "terraform-aws-site"]
+	path = terraform-aws-site
+	url = https://github.com/s3d-club/terraform-aws-site
+[submodule "terraform-aws-waf"]
+	path = terraform-aws-waf
+	url = https://github.com/s3d-club/terraform-aws-waf
+[submodule "terraform-external-data-changes"]
+	path = terraform-external-data-changes
+	url = https://github.com/s3d-club/terraform-external-data-changes
