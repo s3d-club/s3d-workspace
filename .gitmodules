@@ -2,53 +2,74 @@
 	path = s3d-py-fast-api-site-manager
 	url = https://github.com/s3d-club/s3d-py-fast-api-site-manager
 [submodule "aws-account"]
-	path = aws-account
+	path = 06-account
 	url = https://github.com/s3d-club/s3d-aws-account
 [submodule "cli"]
-	path = cli
+	path = 01-cli
 	url = https://github.com/s3d-club/s3d-cli
 [submodule "dev-setup"]
-	path = dev-setup
+	path = 01-dev-setup
 	url = https://github.com/s3d-club/s3d-dev-setup
 [submodule "py-fast-api-site-manager"]
-	path = py-fast-api-site-manager
+	path = 01-py-site-man
 	url = https://github.com/s3d-club/s3d-py-fast-api-site-manager
 [submodule "rest-api-site-manager"]
-	path = rest-api-site-manager
+	path = 01-go-site-man
 	url = https://github.com/s3d-club/s3d-rest-api-site-manager
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/s3d-club/s3d-scripts
 [submodule "tutorial-start"]
-	path = tutorial-start
+	path = 01-tutorial
 	url = https://github.com/s3d-club/s3d-tutorial-start
 [submodule "website"]
-	path = website
+	path = 07-website
 	url = https://github.com/s3d-club/s3d-website
 [submodule "terraform-aws-acm"]
-	path = terraform-aws-acm
+	path = 03-acm
 	url = https://github.com/s3d-club/terraform-aws-acm
 [submodule "terraform-aws-apigateway"]
-	path = terraform-aws-apigateway
+	path = 03-apigateway
 	url = https://github.com/s3d-club/terraform-aws-apigateway
 [submodule "terraform-aws-ec2"]
-	path = terraform-aws-ec2
+	path = 04-ec2
 	url = https://github.com/s3d-club/terraform-aws-ec2
 [submodule "terraform-aws-eks"]
-	path = terraform-aws-eks
+	path = 04-eks
 	url = https://github.com/s3d-club/terraform-aws-eks
 [submodule "terraform-aws-sg_egress_open"]
-	path = terraform-aws-sg_egress_open
+	path = 03-eg-open
 	url = https://github.com/s3d-club/terraform-aws-sg_egress_open
 [submodule "terraform-aws-sg_ingress_ssh"]
-	path = terraform-aws-sg_ingress_ssh
+	path = 03-ssh
 	url = https://github.com/s3d-club/terraform-aws-sg_ingress_ssh
 [submodule "terraform-aws-site"]
-	path = terraform-aws-site
+	path = 05-site
 	url = https://github.com/s3d-club/terraform-aws-site
 [submodule "terraform-aws-waf"]
-	path = terraform-aws-waf
+	path = 04-waf
 	url = https://github.com/s3d-club/terraform-aws-waf
 [submodule "terraform-external-data-changes"]
-	path = terraform-external-data-changes
+	path = 01-changes
 	url = https://github.com/s3d-club/terraform-external-data-changes
+[submodule "terraform-aws-sg_ingress_open"]
+	path = 03-ig-open
+	url = https://github.com/s3d-club/terraform-aws-sg_ingress_open
+[submodule "terraform-external-name-tags"]
+	path = 02-name
+	url = https://github.com/s3d-club/terraform-external-data-name-tags
+[submodule "s3d-init"]
+	path = 00-init
+	url = https://github.com/s3d-club/s3d-init
+[submodule "k8-aws-auth"]
+	path = 01-k8-auth
+	url = https://github.com/s3d-club/terraform-kubernetes-aws-auth
+[submodule "aws-ecr"]
+	path = 03-ecr
+	url = https://github.com/s3d-club/terraform-aws-ecr
+[submodule "aws-site-group"]
+	path = 05-site-group
+	url = https://github.com/s3d-club/terraform-aws-site-group
+[submodule "03-az-vm"]
+	path = 03-az-vm
+	url = https://github.com/s3d-club/terraform-azurerm-vm.git
