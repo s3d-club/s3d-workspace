@@ -6,3 +6,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.0](.)
 - Completed restructuring where some projects reached `0.1.0` level
+
+## [0.1.1](.)
+- Updates to most TF modules
