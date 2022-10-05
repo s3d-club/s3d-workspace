@@ -1,11 +1,8 @@
 # Changes
 Recently completed and planned work is tracked here.
 
-## [0.0.0](.) [0.0.12](.)
+## [0.0.0](.) [0.1.1](.)
 - Early versions
 
-## [0.1.0](.)
-- Completed restructuring where some projects reached `0.1.0` level
-
-## [0.1.1](.)
-- Updates to most TF modules
+## [0.1.2](.)
+- Update to azure vm module
