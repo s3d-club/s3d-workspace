@@ -1,11 +1,8 @@
 # Changes
 Recently completed and planned work is tracked here.
 
-## [0.0.0](.) [0.1.2](.)
+## [0.0.0](.) [0.1.4](.)
 - Created early versions
 
-## [0.1.3](.)
-- Updated site
-
-## [0.1.4](.)
-- Updated `CODE-OF-CONDUCT.md`
+## [0.1.5](.)
+- General updates
