@@ -1,8 +1,8 @@
 # Changes
 Recently completed and planned work is tracked here.
 
-## [0.0.0](.) [0.1.9](.)
+## [0.0.0](.) [0.1.10](.)
 - Created early versions
 
-## [0.1.10](.)
-- General updates
+## [0.1.11](.)
+- Updated
