@@ -8,3 +8,6 @@ Recently completed and planned work is tracked here.
 - General improvements
 - Removed dependency on `s3d-flow-json`
 - Updated `aws` provider
+
+## [0.1.13](.)
+- General improvements
