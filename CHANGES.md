@@ -11,3 +11,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.13](.)
 - General improvements
+
+## [0.1.14](.)
+- Added `s3d-submodule-main-delta`
