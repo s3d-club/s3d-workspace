@@ -14,3 +14,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.14](.)
 - Added `s3d-submodule-main-delta`
+
+## [0.1.15](.)
+- Improved management of `--duration-seconds ` in `s3d-assume-role`
