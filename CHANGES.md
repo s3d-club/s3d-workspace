@@ -11,8 +11,9 @@ Recently completed and planned work is tracked here.
 - Removed dependency on `s3d-flow-json`
 - Updated `aws` provider
 
-## [0.1.16](.)
+## [0.1.16](.) to [0.1.17](.)
+- General updates
 - Removed `npm` scripting from `s3d-init`
 
-## [0.1.17](.)
-- General updates
+## [0.1.18](.)
+- Changed to use `-x` as suffix for pre-release versions
