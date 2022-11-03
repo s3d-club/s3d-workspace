@@ -1,5 +1,5 @@
 # Changes
-Recently completed and planned work is tracked here.
+This file describes the project history as it relates to tagged versions.
 
 ## [0.0.0](.) [0.1.11](.)
 - Created early versions
@@ -17,3 +17,6 @@ Recently completed and planned work is tracked here.
 
 ## [0.1.18](.)
 - Changed to use `-x` as suffix for pre-release versions
+
+## [0.1.19](.)
+- Updated all modules
