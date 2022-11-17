@@ -15,8 +15,12 @@ This file describes the project history as it relates to tagged versions.
 - General updates
 - Removed `npm` scripting from `s3d-init`
 
-## [0.1.18](.)
+## [0.1.18](.) to [0.1.22](.)
 - Changed to use `-x` as suffix for pre-release versions
-
-## [0.1.19](.) to [0.1.22](.)
 - Updated modules
+
+## [0.1.23](.)
+- Fixed typo in `README.md`
+- Updated `05-site` module
+- Updated `06-account` module
+- Updated `scripts` module
