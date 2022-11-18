@@ -26,3 +26,7 @@ This file describes the project history as it relates to tagged versions.
 ## [0.1.24](.) to [0.1.28](.)
 - Updated `aws` provider
 - Updated modules
+
+## [0.1.29](.)
+- Improved `s3d-tf-lock` script
+- Updated `kubernetes` provider
