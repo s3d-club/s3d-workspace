@@ -24,3 +24,7 @@ This file describes the project history as it relates to tagged versions.
 - Updated `05-site` module
 - Updated `06-account` module
 - Updated `scripts` module
+
+## [0.1.24](.)
+- Updated `aws` provider
+- Updated Terraform version
