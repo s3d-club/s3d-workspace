@@ -28,3 +28,6 @@ This file describes the project history as it relates to tagged versions.
 ## [0.1.24](.) to [0.1.26](.)
 - Updated `aws` provider
 - Updated Terraform version
+
+## [0.1.27](.)
+- **TODO** Planned item
