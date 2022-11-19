@@ -30,3 +30,7 @@ This file describes the project history as it relates to tagged versions.
 ## [0.1.29](.)
 - Improved `s3d-tf-lock` script
 - Updated `kubernetes` provider
+
+## [0.1.30](.)
+- Updated `05-site-group`
+- Updated `06-account`
