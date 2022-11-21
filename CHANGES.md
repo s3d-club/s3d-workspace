@@ -19,21 +19,10 @@ This file describes the project history as it relates to tagged versions.
 - Changed to use `-x` as suffix for pre-release versions
 - Updated modules
 
-## [0.1.23](.)
+## [0.1.23](.) to [0.1.31](.)
 - Fixed typo in `README.md`
-- Updated modules
-
-## [0.1.24](.) to [0.1.28](.)
-- Updated `aws` provider
-- Updated modules
-
-## [0.1.29](.)
+- Updated providers and modules
 - Improved `s3d-tf-lock` script
-- Updated `kubernetes` provider
 
-## [0.1.30](.)
-- Updated `05-site-group`
-- Updated `06-account`
-
-## [0.1.31](.)
-- Updated `scripts`
+## [0.1.32](.)
+- Consolidated `bashrc` scripting
