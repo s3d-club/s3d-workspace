@@ -34,3 +34,6 @@ This file describes the project history as it relates to tagged versions.
 ## [0.1.30](.)
 - Updated `05-site-group`
 - Updated `06-account`
+
+## [0.1.31](.)
+- Updated `scripts`
