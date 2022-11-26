@@ -25,5 +25,5 @@ This file describes the project history as it relates to tagged versions.
 - Updated `06-account` module
 - Updated `scripts` module
 
-## [0.1.35](.)
+## [0.1.35](.) to [0.1.36](.)
 - Updated `aws` provider
