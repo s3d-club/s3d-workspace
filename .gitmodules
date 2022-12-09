@@ -59,7 +59,7 @@
 	path = 02-name
 	url = https://github.com/s3d-club/terraform-external-data-name-tags
 [submodule "s3d-init"]
-	path = 00-init
+	path = 000
 	url = https://github.com/s3d-club/s3d-init
 [submodule "k8-aws-auth"]
 	path = 01-k8-auth
