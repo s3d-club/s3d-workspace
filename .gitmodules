@@ -5,22 +5,22 @@
 	path = 06-account
 	url = https://github.com/s3d-club/s3d-aws-account
 [submodule "cli"]
-	path = 01-cli
+	path = 010-cli
 	url = https://github.com/s3d-club/s3d-cli
 [submodule "dev-setup"]
-	path = 01-dev-setup
+	path = 010-dev-setup
 	url = https://github.com/s3d-club/s3d-dev-setup
 [submodule "py-fast-api-site-manager"]
-	path = 01-py-api
+	path = 100-py-api
 	url = https://github.com/s3d-club/s3d-py-fast-api-site-manager
 [submodule "rest-api-site-manager"]
-	path = 01-go-api
+	path = 010-go-api
 	url = https://github.com/s3d-club/s3d-rest-api-site-manager
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/s3d-club/s3d-scripts
 [submodule "tutorial-start"]
-	path = 01-tutorial
+	path = 010-tutorial
 	url = https://github.com/s3d-club/s3d-tutorial-start
 [submodule "website"]
 	path = 07-website
@@ -50,19 +50,19 @@
 	path = 04-waf
 	url = https://github.com/s3d-club/terraform-aws-waf
 [submodule "terraform-external-data-changes"]
-	path = 01-changes
+	path = 100-changes
 	url = https://github.com/s3d-club/terraform-external-data-changes
 [submodule "terraform-aws-sg_ingress_open"]
 	path = 03-ig-open
 	url = https://github.com/s3d-club/terraform-aws-sg_ingress_open
 [submodule "terraform-external-name-tags"]
-	path = 02-name
+	path = 100-name
 	url = https://github.com/s3d-club/terraform-external-data-name-tags
 [submodule "s3d-init"]
 	path = 000
 	url = https://github.com/s3d-club/s3d-init
 [submodule "k8-aws-auth"]
-	path = 01-k8-auth
+	path = 100-k8-auth
 	url = https://github.com/s3d-club/terraform-kubernetes-aws-auth
 [submodule "aws-ecr"]
 	path = 03-ecr
